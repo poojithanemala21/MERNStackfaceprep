@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .h1{
 background-color:red;
 }
@@ -7,3 +8,14 @@ background-color:blue;
 h3{
 background-color:yellow;
 }
+=======
+.h1{
+background-color:red;
+}
+#idd{
+background-color:blue;
+}
+h3{
+background-color:yellow;
+}
+>>>>>>> e93ea2f700b25df713cc1cf2e6d6f2b2428bf473

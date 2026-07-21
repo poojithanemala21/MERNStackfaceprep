@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .about{
   color:"blue";
   font-size:20px;
@@ -15,3 +16,22 @@ font-size:20px;
 font-size:20px;
 }
 
+=======
+.about{
+  color:"blue";
+  font-size:20px;
+}
+.home{
+ color:"blue";
+ font-size:20px;
+}
+.projects{
+ color:"blue";
+font-size:20px;
+}
+.contacts{
+ color:"blue";
+font-size:20px;
+}
+
+>>>>>>> e93ea2f700b25df713cc1cf2e6d6f2b2428bf473
