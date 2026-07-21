@@ -1,0 +1,25 @@
+body{
+    margin:50px;
+}
+
+.box{
+    width:100px;
+    height:100px;
+    background:red;
+
+    position:relative;
+
+    animation:moveBox 3s infinite;
+}
+
+@keyframes moveBox{
+
+    from{
+        left:0px;
+    }
+
+    to{
+        left:500px;
+    }
+
+}
